@@ -1,0 +1,17 @@
+#Git cheat sheet
+
+CREATE
+
+git clone (clone existing repository)
+
+git init (creates a new local repository)
+
+BRANCHES
+
+git branch <new-branch>
+
+git branch -d <delete local branch>
+
+
+
+
