@@ -1,0 +1,36 @@
+Download from an existing repository
+git clone my_url
+
+show the changes to files not yet staged
+git diff
+
+list all local branches
+git branch
+
+create a new branch called new_branch
+git branch new_branch
+
+merge branch_a into branch_b
+git checkout branch_b
+git merge branch_a
+
+list new or modified files not yet committed 
+git status
+
+stages the file, ready for commit
+git add [file]
+
+stage all changed files, redy for commit
+git add . 
+
+commit all staged files to versioned history
+git commit -m "commit message"
+
+fetch the latest changes form origin and merge
+git pull
+
+push local changes to the origin
+git push 
+
+when in doubt, use git help
+git command --help
