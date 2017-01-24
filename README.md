@@ -45,10 +45,15 @@ Github Cheat Sheet
 [GitHub](http://github.com)`
 
 #### Blockquotes
-`As Bill Murray said:
+```
+As Bill Murray said:
 
 >Gunga Galunga,
->Gunga Galunga.`
+>Gunga Galunga.
+```
 
 #### Inline Code
-`I think yoou use an ``<addr>'' element here instead....
+```
+I think yoou use an 
+<addr> element here instead....
+```
