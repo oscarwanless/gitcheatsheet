@@ -25,3 +25,5 @@ git checkout * - switch to another branch
 git merge (branch) - merges branches
 
 git status - basic information about branches
+
+bad change
