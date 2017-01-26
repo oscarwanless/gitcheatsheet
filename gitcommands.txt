@@ -1,0 +1,27 @@
+git clone (repository url, ends with .git) - downloads a repostitory
+
+git commit -a -m "this is a comment" - commits to the repository
+
+git add (filename) - adds a specific file
+
+git push - when you work alone, pushes to the master branch (an update
+
+git pullrequest - merge a branch
+
+git | more - allows you to scroll through text for readability
+
+echo "hello" >> file_name.txt - creates a new text file
+
+git config --system http.sslcainfo "C:\Users\owanless\AppData\Local\Programs\Git\mingw64\ssl\certs\ca-bundle.crt" - sets the config to the specified location
+
+rmdir /s /q itc-134 - deletes working copy
+
+git branch - tells you what branches there are
+
+git branch * - creates a branch
+
+git checkout * - switch to another branch
+
+git merge (branch) - merges branches
+
+git status - basic information about branches
