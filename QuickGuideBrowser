@@ -7,11 +7,13 @@ You can add text and create pages from here. From which you can help your group 
 ```
 
 ```
-The Pull Request tab allows for other users to contribute to the master branch changes
+The Pull Request tab allows for other users to contribute to the master branch. Creating a branch allows for changes
 from there own branches that they create through the branch drop down button. 
-Which allows for the creation of new branches.
+From the drop down branch menu you can see all the branches that are in use and you can create new branches.
+From there once your branch has satisfied your needs and desired changes you can request a pull, which will integrate itself into 
+the master branch if the repository owner sees fit to add it in.
 ```
 
 ```
-The wiki allows for a comprehensive set of pages that allows ease of access for information
+The wiki allows for a comprehensive set of pages that allows ease of access for information.
 ```
